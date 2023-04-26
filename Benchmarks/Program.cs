@@ -6,7 +6,7 @@ namespace Benchmarks
     {
         static void Main()
         {
-            BenchmarkRunner.Run<StringNumberParseBenchmark>();
+            BenchmarkRunner.Run<ContainsBenchmark>();
         }
     }
 }
